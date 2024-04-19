@@ -1,0 +1,22 @@
+.container {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.text {
+  flex: 1;
+}
+
+.info {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
