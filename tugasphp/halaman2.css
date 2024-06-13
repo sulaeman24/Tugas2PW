@@ -1,0 +1,16 @@
+body{
+    background-color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-optical-sizing: 100px;
+    font-display:inherit;
+    text-align: justify;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.col-md-9 img{
+    width: 500px;
+    height: 300px;
+}

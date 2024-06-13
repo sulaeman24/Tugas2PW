@@ -1,0 +1,8 @@
+body{
+    background-color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-optical-sizing: 100px;
+    font-display:inherit;
+    text-align: justify;
+}

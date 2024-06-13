@@ -1,0 +1,15 @@
+body{
+    background-color: #BAA3A9;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-optical-sizing: 100px;
+    font-display:inherit;
+    text-align: justify;
+}
+p{
+    font-family: monospace;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
